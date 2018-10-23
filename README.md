@@ -6,6 +6,6 @@
 PyTorch 0.4 이상
 
 # 참고 문헌 
-기계 학습(오일석)
-Hands-On Machine Learning with Scikit-Learn & TensorFlow(Aurélien Géron)
-Deep Learning with Python(Francois Chollet)
+기계 학습(오일석)<br>
+Hands-On Machine Learning with Scikit-Learn & TensorFlow(Aurélien Géron)<br>
+Deep Learning with Python(Francois Chollet)<br>
